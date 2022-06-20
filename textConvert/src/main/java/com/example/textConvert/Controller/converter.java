@@ -23,7 +23,7 @@ import java.net.http.HttpResponse;
 public class converter {
 
 
-    private final String token = "e3a3e54da2ed4ec3a382f3fb0ae2303b";
+    private final String token = "API KEY";
 
 
     private Script script = new Script();
